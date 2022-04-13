@@ -1,4 +1,4 @@
-texto de prueba
+texto de prueba   MAIN
 
 mas texto de prueba
 
